@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="736" height="261" alt="image" src="https://github.com/user-attachments/assets/13cdaa30-67e2-4862-9f53-9bdc8c464563" />
+
 
 <!--
 **Quinnxv/Quinnxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
